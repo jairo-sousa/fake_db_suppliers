@@ -1,9 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "suppliers": [
+        {
+            "id": "5F6E8C9",
+            "name": "GOOD SUPPLIER",
+            "branch": "general products",
+            "phone": "99999999999",
+            "website": "www.website.com",
+            "streetAddress": "999 Avenue street, Suite 999",
+            "location": "New York, NY 99999"
+        },
+        {
+            "id": "5F6E8C0",
+            "name": "OLIVIA SIMONS",
+            "branch": "general products",
+            "phone": "99999999999",
+            "website": "www.website.com",
+            "streetAddress": "999 Avenue street, Suite 999",
+            "location": "New York, NY 99999"
+        },
+        {
+            "id": "5F6E8C1",
+            "name": "SPECIALIST MERCHANT",
+            "branch": "general products",
+            "phone": "99999999999",
+            "website": "www.website.com",
+            "streetAddress": "999 Avenue street, Suite 999",
+            "location": "New York, NY 99999"
+        },
+        {
+            "id": "5F6E8C2",
+            "name": "TECH HOUSE",
+            "branch": "general products",
+            "phone": "99999999999",
+            "website": "www.website.com",
+            "streetAddress": "999 Avenue street, Suite 999",
+            "location": "New York, NY 99999"
+        },
+        {
+            "id": "5F6E8C3",
+            "name": "ANOTHER SUPPLIER",
+            "branch": "general products",
+            "phone": "99999999999",
+            "website": "www.website.com",
+            "streetAddress": "999 Avenue street, Suite 999",
+            "location": "New York, NY 99999"
+        }
+    ]
 }
