@@ -2,53 +2,53 @@
     "suppliers": [
         {
             "id": "5F6E8C9",
-            "name": "GOOD SUPPLIER",
-            "branch": "general products",
+            "nome": "GOOD SUPPLIER",
+            "ramo": "general products",
             "email": "email@emailaddress.com",
-            "phone": "99999999999",
+            "telefone": "99999999999",
             "website": "www.website.com",
-            "streetAddress": "999 Avenue street, Suite 999",
-            "location": "New York, NY 99999"
+            "endereço": "999 Avenue street, Suite 999",
+            "localização": "New York, NY 99999"
         },
         {
             "id": "5F6E8C0",
-            "name": "OLIVIA SIMONS",
-            "branch": "general products",
+            "nome": "OLIVIA SIMONS",
+            "ramo": "general products",
             "email": "email@emailaddress.com",
-            "phone": "99999999999",
+            "telefone": "99999999999",
             "website": "www.website.com",
-            "streetAddress": "999 Avenue street, Suite 999",
-            "location": "New York, NY 99999"
+            "endereço": "999 Avenue street, Suite 999",
+            "localização": "New York, NY 99999"
         },
         {
             "id": "5F6E8C1",
-            "name": "SPECIALIST MERCHANT",
-            "branch": "general products",
+            "nome": "SPECIALIST MERCHANT",
+            "ramo": "general products",
             "email": "email@emailaddress.com",
-            "phone": "99999999999",
+            "telefone": "99999999999",
             "website": "www.website.com",
-            "streetAddress": "999 Avenue street, Suite 999",
-            "location": "New York, NY 99999"
+            "endereço": "999 Avenue street, Suite 999",
+            "localização": "New York, NY 99999"
         },
         {
             "id": "5F6E8C2",
-            "name": "TECH HOUSE",
-            "branch": "general products",
+            "nome": "TECH HOUSE",
+            "ramo": "general products",
             "email": "email@emailaddress.com",
-            "phone": "99999999999",
+            "telefone": "99999999999",
             "website": "www.website.com",
-            "streetAddress": "999 Avenue street, Suite 999",
-            "location": "New York, NY 99999"
+            "endereço": "999 Avenue street, Suite 999",
+            "localização": "New York, NY 99999"
         },
         {
             "id": "5F6E8C3",
-            "name": "ANOTHER SUPPLIER",
-            "branch": "general products",
+            "nome": "ANOTHER SUPPLIER",
+            "ramo": "general products",
             "email": "email@emailaddress.com",
-            "phone": "99999999999",
+            "telefone": "99999999999",
             "website": "www.website.com",
-            "streetAddress": "999 Avenue street, Suite 999",
-            "location": "New York, NY 99999"
+            "endereço": "999 Avenue street, Suite 999",
+            "localização": "New York, NY 99999"
         }
     ]
 }
